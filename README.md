@@ -10,19 +10,11 @@
 </div>
 
 <!-- PROJECT DESCRIPTION -->
-
-# 📖 [Hello Microverse] <a name="about-project"></a>
-
 In this project, I set up a "Hello world" repository as the first microverse project which is to experience correct GitHub flow, branch and pull request..,
-
 
 <!-- AUTHOR -->
 
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
-👤 **Author**
+Author <a name="author"></a>
 
 - GitHub: [@HUssen Yesuf Alli](https://github.com/hussenyesufalli@gmail.com)
 

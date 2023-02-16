@@ -5,7 +5,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b> Hello Microverse /b></h3>
+  <h3><b> Hello Microverse </b></h3>
 
 </div>
 
@@ -14,7 +14,7 @@ In this project, I set up a "Hello world" repository as the first microverse pro
 
 <!-- AUTHOR -->
 
-Author <a name="author"></a>
+<a name="author"></a>
 
-- GitHub: [@HUssen Yesuf Alli](https://github.com/hussenyesufalli@gmail.com)
+[@HUssen Yesuf Alli](https://github.com/hussenyesufalli@gmail.com)
 
